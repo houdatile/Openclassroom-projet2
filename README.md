@@ -5,6 +5,6 @@ Analyse des données de systèmes éducatifs pour un projet d’expansion à l�
 
 ## Environnement :
 
-Un notebook d'exploration de donnée.
+Un notebook d'exploration de données.
 
 jeu de données : https://datacatalog.worldbank.org/dataset/education-statistics.
