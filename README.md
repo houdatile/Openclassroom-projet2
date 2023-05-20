@@ -12,9 +12,10 @@ jeu de données : https://datacatalog.worldbank.org/dataset/education-statistics
 ## Contenue : 
 
 #### I – Première exploration 
-
+Premier nettoyage de chaques dataframes avant merging.
 #### II – Choix des indicateurs 
 ##### A – Nettoyage de données
+Merging après selection des informations pertinentes pour repondre à la problématique et second nettoyage du dataframe.
 ##### B – Analyse du jeu de données
 
 
