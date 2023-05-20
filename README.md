@@ -13,8 +13,10 @@ jeu de données : https://datacatalog.worldbank.org/dataset/education-statistics
 
 I – Première exploration 
 
-II – Choix des indicateurs
+II – Choix des indicateurs 
+
 A – Nettoyage de données
+
 B – Analyse du jeu de données
 
 
