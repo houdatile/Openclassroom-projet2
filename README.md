@@ -11,14 +11,13 @@ jeu de données : https://datacatalog.worldbank.org/dataset/education-statistics
 
 ## Contenue : 
 
-I – Première exploration 
+#### I – Première exploration 
 
-II – Choix des indicateurs 
+#### II – Choix des indicateurs 
 
-A – Nettoyage de données
+##### A – Nettoyage de données
+##### B – Analyse du jeu de données
 
-B – Analyse du jeu de données
 
-
-III Analyse de données
+#### III Analyse de données
 
